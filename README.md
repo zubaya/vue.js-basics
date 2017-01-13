@@ -1,4 +1,4 @@
-# vue_sample_fragment
+# vue.js-basics
 
 > A Vue.js project
 
